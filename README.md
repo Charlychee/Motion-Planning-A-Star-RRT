@@ -11,37 +11,37 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
 <table style='table-layout: fixed;'>
     <tr>
         <td>
-        <img src="SearchSingle.jpg">
+        <img src="SearchSingle.jpg"><br>
         <figcaption>Single Cube</figcaption>
         </td>
         <td>
-        <img src="SearchWindow.jpg">
+        <img src="SearchWindow.jpg"><br>
         <figcaption>Window</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SearchMonza.jpg">
+        <img src="SearchMonza.jpg"><br>
         <figcaption>Monza</figcaption>
         </td>
         <td>
-        <img src="SearchFlappy.jpg">
+        <img src="SearchFlappy.jpg"><br>
         <figcaption>Flappy</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SearchRoom.jpg">
+        <img src="SearchRoom.jpg"><br>
         <figcaption>Room</figcaption>
         </td>
         <td>
-        <img src="SearchMaze.jpg">
+        <img src="SearchMaze.jpg"><br>
         <figcaption>Maze</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SearchTower.jpg">
+        <img src="SearchTower.jpg"><br>
         <figcaption>Tower</figcaption>
         </td>
     </tr>
@@ -52,37 +52,37 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
     width: 100%;'>
     <tr>
         <td>
-        <img src="SampleSingle.jpg">
+        <img src="SampleSingle.jpg"><br>
         <figcaption>Single Cube</figcaption>
         </td>
         <td>
-        <img src="SampleWindow.jpg">
+        <img src="SampleWindow.jpg"><br>
         <figcaption>Window</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SampleMonza.jpg">
+        <img src="SampleMonza.jpg"><br>
         <figcaption>Monza</figcaption>
         </td>
         <td>
-        <img src="SampleFlappy.jpg">
+        <img src="SampleFlappy.jpg"><br>
         <figcaption>Flappy</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SampleRoom.jpg">
+        <img src="SampleRoom.jpg"><br>
         <figcaption>Room</figcaption>
         </td>
         <td>
-        <img src="SampleMaze.jpg">
+        <img src="SampleMaze.jpg"><br>
         <figcaption>Maze</figcaption>
         </td>
     </tr>
     <tr>
         <td>
-        <img src="SampleTower.jpg">
+        <img src="SampleTower.jpg"><br>
         <figcaption>Tower</figcaption>
         </td>
     </tr>
