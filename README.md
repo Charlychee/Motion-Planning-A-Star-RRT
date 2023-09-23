@@ -8,8 +8,7 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
 
 # Results
 ## Search-Based Planning - A* Algorithm
-<table style='table-layout: fixed;
-    width: 100%;'>
+<table style='table-layout: fixed;'>
     <tr>
         <td>
         <img src="SearchSingle.jpg">
