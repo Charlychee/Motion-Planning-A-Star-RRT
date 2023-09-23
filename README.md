@@ -25,7 +25,7 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
         <figcaption>Monza</figcaption>
         </td>
         <td>
-        <img src="SearchFlappy.jpg"><br>
+        <img src="SearchFlappy.jpg" width=445px><br>
         <figcaption>Flappy</figcaption>
         </td>
     </tr>
