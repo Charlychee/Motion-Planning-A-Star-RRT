@@ -94,11 +94,11 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
 We formulate the problem as a Deterministic Shortest Path (DSP) problem.
 
 ```math
-\text{Vertex Set}: \mathcal{V} = \mathbb{R}^3 = \{\mathbf{x} = \begin{pmatrix}
+\text{Vertex Set}: \mathcal{V} = \mathbb{Z}^3 = \{\mathbf{x} = \begin{pmatrix}
         x\\
         y\\
         z
-    \end{pmatrix}: x, y, z \in \mathbb{R}\}
+    \end{pmatrix}: x, y, z \in \mathbb{Z}\}
 ```
 
 ```math
