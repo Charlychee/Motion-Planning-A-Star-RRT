@@ -155,7 +155,7 @@ We formulate the problem as a Deterministic Shortest Path (DSP) problem.
 ### Objective
 Find the path between start node $s$ and terminal node $\tau$ that minimizes path length
 ```math
-i^*_{1:q} = \argmin_{i_{1:q} \in \mathcal{P}_{s, \tau}} J^{i_{1:q}}
+i^*_{1:q} = \arg \min_{i_{1:q} \in \mathcal{P}_{s, \tau}} J^{i_{1:q}}
 ```
 
 ## A* Algorithm
