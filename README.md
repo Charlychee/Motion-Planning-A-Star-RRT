@@ -93,15 +93,15 @@ This was implemented in Python using NumPy. The code has been redacted, if you w
 ## Problem Formulation
 We formulate the problem as a Deterministic Shortest Path (DSP) problem.
 
-$$
+```math
 \text{Vertex Set}: \mathcal{V} = \mathbb{R}^3 = \{\mathbf{x} = \begin{pmatrix}
         x\\
         y\\
         z
     \end{pmatrix}: x, y, z \in \mathbb{R}\}
-$$
+```
 
-$$
+```math
 \begin{split}
     \text{Edge Set}: \mathcal{E} = \{&\begin{pmatrix}
         x\pm1\\
@@ -134,23 +134,23 @@ $$
         z
     \end{pmatrix} \in \mathcal{V}\}
 \end{split}
-$$
+```
 
-$$
+```math
 \text{Edge Weights}: \mathcal{C} = \{c_{ij} = ||\mathbf{x}_i - \mathbf{x}_j||_2 : i,j \in \mathcal{V}\}
-$$
+```
 
-$$
+```math
 \text{Path}: i_{1:q} := (i_1, i_2, ..., i_q) : i_k \in \mathcal{V}
-$$
+```
 
-$$
+```math
 \text{Path Length}: J^{i_{1:q}} = \sum_{k=1}^{q-1} c_{i_k, i_{k+1}}
-$$
+```
 
-$$
+```math
 \text{Set of All Paths Connecting } s \text{ to } \tau:\mathcal{P}_{s,\tau} := \{i_{1:q} : i_k \in \mathcal{V}, i_1 = s, i_q = \tau\}
-$$
+```
 
 ### Objective
 Find the path between start node $s$ and terminal node $\tau$ that minimizes path length
